@@ -1,0 +1,5 @@
+site_name: My Personal Wesbite Docs Site
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Concept: concept.md
