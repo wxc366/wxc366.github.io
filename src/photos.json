@@ -1,5 +1,13 @@
 [
     {
+        "src": "photos/seoul-WB.jpg",
+        "title": "WB Exhibit",
+        "date": "2025-04-11",
+        "location": "Seoul, S. Korea",
+        "category": ["#Art", "#Korea"],
+        "insight": "This piece was created for the Korea exhibit. As soon as I saw the duck boats & bikers, I knew it had to be the Han River."
+    },
+    {
       "src": "photos/jeju-hexagonalbasaltcolumn.jpg",
       "title": "Basalt Cliffs",
       "date": "2025-04-08",
@@ -13,14 +21,6 @@
         "date": "2025-04-08",
         "location": "Jeju, S. Korea",
         "category": ["#Nature", "#Korea"],
-        "insight": "This was the end of the coastal walk loop. The ocean view was breathtaking at sunset."
-    }, 
-    {
-        "src": "photos/seoul-WB.jpg",
-        "title": "WB Exhibit",
-        "date": "2025-04-11",
-        "location": "Seoul, S. Korea",
-        "category": ["#Art", "#Korea"],
-        "insight": "This piece was created by Werner Bronkhorst for the Korea exhibit. As soon as I saw the duck boats & bikers, I had a suspicion that it was the Han River."
-      }
+        "insight": "Being by the water reminds me of my childhood (esp. Lake Superior). Sunsets on the water >>"
+    }
   ]
