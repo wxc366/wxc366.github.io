@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "homepage": "https://wxc366.github.io/photo-journal",
     "scripts": {
-        "dev": "vite",
+        "dev": "vite --host",
         "build": "vite build",
         "preview": "vite preview",
         "deploy": "npm run build && gh-pages -d dist"

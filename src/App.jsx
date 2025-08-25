@@ -1,9 +1,16 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import photos from "./photos.json";
 
 function App() {
   const [filter, setFilter] = useState("All");
   const categories = ["All", ...new Set(photos.flatMap(p => p.category))];
+
+  useEffect(() => {
+    // Runs once when the component mounts
+    if (window.innerWidth <= 768) {
+      alert("⚠ Warning: Not optimized for mobile yet");
+    }
+  }, []);
 
   const filtered = filter === "All" ? photos : photos.filter(p => p.category.includes(filter));
 
