@@ -44,7 +44,6 @@ function App() {
             <div className="absolute inset-0 bg-black bg-opacity-60 text-white opacity-0 group-hover:opacity-100 transition p-4 flex flex-col justify-end">
               <h3 className="text-lg font-bold">{photo.title}</h3>
               <p className="text-sm">{photo.location}</p>
-              <p className="text-xs">{photo.date}</p>
               <p className="mt-2">{photo.insight}</p>
               <div className="mt-2 text-xs">{photo.category.join(" ")}</div>
             </div>
