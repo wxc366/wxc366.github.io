@@ -5,6 +5,22 @@
       "date": "2025-04-08",
       "location": "Jeju, S. Korea",
       "category": ["#Nature", "#Korea"],
-      "insight": "The cliffs show how natural systems shape design — resilience through layers."
-    }
+      "insight": "These cliffs naturally made hexagonal columns!"
+    }, 
+    {
+        "src": "photos/jeju-southcoast-field.jpg",
+        "title": "Coastal Fields",
+        "date": "2025-04-08",
+        "location": "Jeju, S. Korea",
+        "category": ["#Nature", "#Korea"],
+        "insight": "This was the end of the coastal walk loop. The ocean view was breathtaking at sunset."
+    }, 
+    {
+        "src": "photos/seoul-WB.jpg",
+        "title": "WB Exhibit",
+        "date": "2025-04-11",
+        "location": "Seoul, S. Korea",
+        "category": ["#Art", "#Korea"],
+        "insight": "This piece was created Werner Bronkhorst for the Korea exhibit. As soon as I saw the duck boats, I had a suspicion that it was the Han River."
+      }
   ]
