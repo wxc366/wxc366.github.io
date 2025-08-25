@@ -12,7 +12,7 @@ function App() {
       {/* Intro */}
       <header className="mb-10">
         <h1 className="text-3xl font-bold">Hey, I’m Wonyoung :)</h1>
-        <p className="mt-2 text-gray-600">This is my photo journal.<br/>#Korea #Sports #EverydayLife</p>
+        <p className="mt-2 text-gray-600">This is my photo journal.</p>
       </header>
 
       {/* Filter buttons */}
